@@ -11,12 +11,12 @@ I design and operate secure, automated cloud platforms that scale in production 
 - **Security:** IAM/least privilege, encryption, vuln scanning, DevSecOps guardrails  
 
 ## Proof-of-Work (Pinned Repos)
-- **Portfolio Site:** [hayourdell-portfolio](https://github.com/Hayourdell/hayourdell-portfolio) — case studies, architecture diagrams, runbooks  
-- **EKS Platform IaC:** [terraform-aws-eks-platform](https://github.com/Hayourdell/terraform-aws-eks-platform) — reusable EKS/VPC/IRSA patterns  
-- **CI/CD Canary + Auto-Rollback:** [cicd-canary-auto-rollback](https://github.com/Hayourdell/cicd-canary-auto-rollback) — secure delivery with progressive rollout + rollback  
-- **Observability + SLO Pack:** [observability-slo-pack](https://github.com/Hayourdell/observability-slo-pack) — dashboards, alerts, SLO examples  
-- **DevSecOps Guardrails:** [devsecops-guardrails](https://github.com/Hayourdell/devsecops-guardrails) — IaC scanning, policy gates, vuln workflow  
-- **Runbooks & Incident Response:** [runbooks-incident-response](https://github.com/Hayourdell/runbooks-incident-response) — triage playbooks, rollback, postmortems  
+- **Portfolio Site:** [portfolio](https://github.com/ayodeleadebusuyinew/portfolio) — case studies, architecture diagrams, runbooks  
+- **EKS Platform IaC:** [terraform-aws-eks-platform](https://github.com/ayodeleadebusuyinew/terraform-aws-eks-platform) — reusable EKS/VPC/IRSA patterns  
+- **CI/CD Canary + Auto-Rollback:** [cicd-canary-auto-rollback](https://github.com/ayodeleadebusuyinew/cicd-canary-auto-rollback) — secure delivery with progressive rollout + rollback  
+- **Observability + SLO Pack:** [observability-slo-pack](https://github.com/ayodeleadebusuyinew/observability-slo-pack) — dashboards, alerts, SLO examples  
+- **DevSecOps Guardrails:** [devsecops-guardrails](https://github.com/ayodeleadebusuyinew/devsecops-guardrails) — IaC scanning, policy gates, vuln workflow  
+- **Runbooks & Incident Response:** [runbooks-incident-response](https://github.com/ayodeleadebusuyinew/runbooks-incident-response) — triage playbooks, rollback, postmortems  
 
 ## Flagship Case Studies
 - **HIPAA-compliant AWS + EKS platform delivery** for healthcare SaaS (security-by-default, auditable delivery, operational readiness)  
